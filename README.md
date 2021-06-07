@@ -40,10 +40,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-
+  git clone https://github.com/LuizTimboAlcantara/python_previsao_do_tempo.git
 
 # Entrar na pasta do projeto
-  $ cd
+  $ cd python_previsao_do_tempo
 
 # Instalar as dependências do projeto
   $ pip install
